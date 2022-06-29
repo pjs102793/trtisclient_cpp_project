@@ -28,12 +28,11 @@
 
 [![License](https://img.shields.io/badge/License-BSD3-lightgrey.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-# Triton Client Libraries and Examples
+# Triton Client CPP Project
 
-To simplify communication with Triton, the Triton project provides
-several client libraries and examples of how to use those
-libraries. Ask questions or report problems in the main Triton [issues
-page](https://github.com/triton-inference-server/server/issues).
+Python에서만 사용했던 Client Code를 C++ 연습과 동시에 C++ 코드로 인한 오버헤드 개선과 속도 개선을 위해서 클라이언트 코드를 작성합니다.
+
+이하는 Triton Inference Server 클라이언트의 README 전문입니다.
 
 The provided client libaries are:
 
